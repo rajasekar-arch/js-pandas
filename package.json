@@ -1,0 +1,48 @@
+{
+  "name": "js-pandas",
+  "version": "1.0.0",
+  "description": "This file provides a prototype for a 'js-pandas' DataFrame library.It demonstrates the core data structures (Series, DataFrame) and simplified implementations of key functionalities like data initialization, basic selection,and data cleaning",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajasekar-arch/js-pandas.git"
+  },
+  "keywords": [
+    "javascript",
+    "pandas",
+    "dataframe",
+    "data-science",
+    "data-analysis",
+    "js-pandas",
+    "data-manipulation",
+    "data-visualization",
+    "data-processing",
+    "data-science-js",
+    "data-analysis-js",
+    "dataframe-js",
+    "data-manipulation-js",
+    "data-visualization-js",
+    "data-processing-js",
+    "data-science-library",
+    "data-analysis-library",
+    "dataframe-library"
+  ],
+  "author": "Rajasekar E C <rajasekar_e_c@outlook.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rajasekar-arch/js-pandas/issues"
+  },
+  "homepage": "https://github.com/rajasekar-arch/js-pandas#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
