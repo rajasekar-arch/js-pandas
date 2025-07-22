@@ -1,7 +1,7 @@
 {
-  "name": "js-pandas",
+  "name": "js-dataframes",
   "version": "1.0.0",
-  "description": "This file provides a prototype for a 'js-pandas' DataFrame library.It demonstrates the core data structures (Series, DataFrame) and simplified implementations of key functionalities like data initialization, basic selection,and data cleaning",
+  "description": "This file provides a prototype for a 'js-dataframes' DataFrame library.It demonstrates the core data structures (Series, DataFrame) and simplified implementations of key functionalities like data initialization, basic selection,and data cleaning",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -20,7 +20,7 @@
     "dataframe",
     "data-science",
     "data-analysis",
-    "js-pandas",
+    "js-dataframes",
     "data-manipulation",
     "data-visualization",
     "data-processing",

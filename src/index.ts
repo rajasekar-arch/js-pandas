@@ -1,7 +1,7 @@
 /**
- * js-pandas Prototype (Complete)
+ * js-dataframes Prototype (Complete)
  *
- * This file provides a conceptual prototype for a 'js-pandas' DataFrame library,
+ * This file provides a conceptual prototype for a 'js-dataframes' DataFrame library,
  * now with working implementations for merge, concat, astype, drop_duplicates,
  * readCsv, and toCsv.
  *

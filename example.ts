@@ -3,7 +3,7 @@ import { DataFrame } from './dist/index'; // Adjust the path if DataFrame is in 
 
 
 // --- Example Usage ---
-console.log("--- js-pandas Prototype Example Usage ---");
+console.log("--- js-dataframes Prototype Example Usage ---");
 
 // 1. Create a DataFrame from an array of objects
 const data1 = [

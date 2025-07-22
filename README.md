@@ -1,4 +1,4 @@
-## js-pandas
+## js-dataframes
 
 This repository contains a conceptual prototype for a JavaScript/TypeScript DataFrame library, aiming to mimic some core functionalities of Python's widely used Pandas library. This project serves as a foundational blueprint, demonstrating the architectural considerations and initial implementations for handling tabular data in a JavaScript environment.
 
@@ -66,11 +66,11 @@ As this is a prototype, there's no official npm package yet. You would typically
 
 # Example (if it were a real package)
 
-npm install js-pandas # This command does not work currently
+npm install js-dataframes # This command does not work currently
 
 # or
 
-yarn add js-pandas # This command does not work currently
+yarn add js-dataframes # This command does not work currently
 
 ## Usage
 
@@ -78,7 +78,7 @@ Here's how you can use the Series and DataFrame classes from this prototype.
 
 ```javascript
 Creating a DataFrame
-import { DataFrame, Series } from './js-pandas-prototype'; // Adjust path as needed
+import { DataFrame, Series } from './js-dataframes'; // Adjust path as needed
 
 // From an array of objects (row-wise data)
 const data1 = [
